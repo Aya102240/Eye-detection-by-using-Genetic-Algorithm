@@ -1,0 +1,30 @@
+Function (matrix):
+make matrix with specific rows and coloums
+
+Function (pop):
+create random population
+
+Function (encoded_pop):
+encode the population
+
+Function (decoded_list):
+decode list of binary numbers
+
+Function (decode_pop):
+decode binary population (encoded_pop)
+
+Function (fitness_fun):
+the fitness function of each chromosome
+
+Function (pop_fitness):
+list of the values of the fitness function of each chromosome
+(It give the maximum of the fitness function)
+
+Function (select_mating_pool):
+select specific number of parents with the best fitness function
+
+Function (crossover):
+make crossover with single crossover method in position 3
+
+Function (mutation):
+the mutation of specific position 3

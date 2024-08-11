@@ -1,0 +1,16 @@
+
+Function (Canny_edge_original_img):
+get the edges of the original image 
+
+Function (desired_output):
+multiply the edges of unknown circle image and original image and get the first index length
+
+Function (unknowncircle):
+create image with every itration from the genetic algorithm 
+That function return the edges that we get from multipling the edges of new circle image and original image and get the first index length
+
+Function (draw_circle):
+after detect the best circle ..... this function draw the circle on the original image on only one eye
+
+Function (second_circle):
+this function take the radius from the previous function and draw it on the second eye and show the original image with the two circles
